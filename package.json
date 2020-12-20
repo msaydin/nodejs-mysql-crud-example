@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-mysql-crud-example",
+  "version": "1.0.0",
+  "description": "Node.js CRUD Server With MySql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msaydin/nodejs-mysql-crud-example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "crud"
+  ],
+  "author": "msaydin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msaydin/nodejs-mysql-crud-example/issues"
+  },
+  "homepage": "https://github.com/msaydin/nodejs-mysql-crud-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
